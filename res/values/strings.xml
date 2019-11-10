@@ -10134,6 +10134,6 @@
     <string name="theme_customization_accent_color_title">Accent color</string>
     <!-- Title of the setting which enables overlays to customize headline and body fonts. -->
     <string name="theme_customization_font_title">Headline / Body font</string>
-    <!-- Title of the setting which enables overlays to customize the adaptive icon shape. -->
+    <!-- Title of the setting which enables overlays to customize the adaptive icon shape.  -->
     <string name="theme_customization_icon_shape_title">Icon shape</string>
 </resources>
